@@ -1,0 +1,56 @@
+Thu Aug 15 18:28:47 2019
+START GAME
+Thu Aug 15 18:28:47 2019
+Rabbit hit Sir Not Appearing In This Movie for 5 damage
+Thu Aug 15 18:28:47 2019
+Sir Not Appearing In This Movie hits the rabbit for 0 damage
+Thu Aug 15 18:28:47 2019
+Rabbit hit Sir Not Appearing In This Movie for 38 damage
+Thu Aug 15 18:28:47 2019
+Sir Not Appearing In This Movie IS DEAD
+Thu Aug 15 18:28:47 2019
+Rabbit hit  for 3 damage
+Thu Aug 15 18:28:47 2019
+ IS DEAD
+Thu Aug 15 18:28:47 2019
+Rabbit hit Sir Bedivere for 4 damage
+Thu Aug 15 18:28:47 2019
+Rabbit hit Sir Bors for 7 damage
+Thu Aug 15 18:28:47 2019
+BIT hit all knights for 
+Thu Aug 15 18:28:47 2019
+RABBIT WON
+Thu Aug 15 18:39:04 2019
+START GAME
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Bors for 2 damage
+Thu Aug 15 18:39:04 2019
+Sir Bors hits the rabbit for 7 damage
+Thu Aug 15 18:39:04 2019
+BBIT hit all knights for 
+Thu Aug 15 18:39:04 2019
+ RAN AWAY
+Thu Aug 15 18:39:04 2019
+Sir Bedivere hits the rabbit for 4 damage
+Thu Aug 15 18:39:04 2019
+Sir Bors hits the rabbit for 7 damage
+Thu Aug 15 18:39:04 2019
+Sir Not Appearing In This Movie hits the rabbit for 11 damage
+Thu Aug 15 18:39:04 2019
+Sir Lancelot hits the rabbit for 0 damage
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Not Appearing In This Movie for 32 damage
+Thu Aug 15 18:39:04 2019
+Sir Not Appearing In This Movie hits the rabbit for 11 damage
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Not Appearing In This Movie for 7 damage
+Thu Aug 15 18:39:04 2019
+Sir Not Appearing In This Movie IS DEAD
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Bedivere for 8 damage
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Bors for 5 damage
+Thu Aug 15 18:39:04 2019
+Rabbit hit Sir Lancelot for 6 damage
+Thu Aug 15 18:39:04 2019
+RABBIT WON

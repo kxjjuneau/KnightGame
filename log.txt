@@ -1,0 +1,30 @@
+Thu Aug 15 18:28:28 2019
+START GAME
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Not Appearing In This Movie for 38 damage
+Thu Aug 15 18:28:28 2019
+Sir Not Appearing In This Movie hits the rabbit for 9 damage
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Bedivere for 4 damage
+Thu Aug 15 18:28:28 2019
+Sir Bedivere hits the rabbit for 0 damage
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Bedivere for 34 damage
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Not Appearing In This Movie for 34 damage
+Thu Aug 15 18:28:28 2019
+Sir Not Appearing In This Movie IS DEAD
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Bedivere for 38 damage
+Thu Aug 15 18:28:28 2019
+Sir Bedivere IS DEAD
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Bors for 3 damage
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Lancelot for 2 damage
+Thu Aug 15 18:28:28 2019
+Rabbit hit Sir Robin for 4 damage
+Thu Aug 15 18:28:28 2019
+Sir Robin IS DEAD
+Thu Aug 15 18:28:28 2019
+RABBIT WON

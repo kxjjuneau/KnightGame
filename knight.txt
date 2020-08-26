@@ -1,0 +1,31 @@
+count:5
+
+name:Sir Lancelot
+hp:35
+bravery:10
+rate:35
+damage:7
+
+name:Sir Robin
+hp:20
+bravery:19
+rate:30
+damage:5
+
+name:Sir Bedivere
+hp:20
+bravery:10
+rate:20
+damage:3
+
+name:Sir Bors
+hp:35
+bravery:5
+rate:25
+damage:6
+
+name:Sir Not Appearing In This Movie
+hp:40
+bravery:0
+rate:10
+damage:8

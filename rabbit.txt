@@ -1,0 +1,8 @@
+hp:50
+rate:5
+bite:70
+quick:15
+throat:15
+weak:5
+strong:35
+evade:65
